@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.hellospring.repository.MemoryMemberRepositoryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-30T04:18:57" hostname="DESKTOP-ORRPA4K" time="0.018">
+  <properties/>
+  <testcase name="save()" classname="hello.hellospring.repository.MemoryMemberRepositoryTest" time="0.018"/>
+  <system-out><![CDATA[result = hello.hellospring.domain.Member@d2f7663
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
